@@ -734,6 +734,7 @@ margin-bottom: 16px;
 }
 
 .modal-icon-click {
+    display: inline-flex;
 }
 
 .span-modal {
