@@ -719,6 +719,14 @@ margin-bottom: 16px;
     color: #4d5ae5;
   }
 }
+
+.privacy {
+    line-height: 1.33333;
+    text-decoration: underline;
+    text-decoration-skip-ink: none;
+    color: #4d5ae5;
+}
+
 .modal-icon-click {
 }
 
@@ -740,4 +748,7 @@ margin-bottom: 16px;
     fill: #f4f4fd;
     background-color: #404bbf;
     border: 1px solid #404bbf;
+    .span-modal {
+        bottom: none;
+    }
 }
